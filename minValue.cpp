@@ -10,12 +10,7 @@ const int MAX_ARRAY_SIZE = 10;
 const int MIN_NUM = 0;
 const int MAX_NUM = 100;
 
-/**
- * Finds the minimum value in an array using a For..In loop.
- *
- * @param arr The array of integers.
- * @return int The minimum value in the array.
- */
+
 int findMinValue(const std::array<int, MAX_ARRAY_SIZE>& arr) {
     int minValue = arr[0];  // Initialize minValue with the first element of the array
 
