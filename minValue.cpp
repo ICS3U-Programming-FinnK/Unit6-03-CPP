@@ -1,9 +1,9 @@
 // Created by: Finn Kitor
 // Created on: December 14th, 2023
 // this program generates 10 numbers between 0 to 100 and it finds the minimum value of the array.
+#include <iostream>
 #include <time.h>
 #include <array>
-#include <iostream>
 
 // Constants
 const int MAX_ARRAY_SIZE = 10;
